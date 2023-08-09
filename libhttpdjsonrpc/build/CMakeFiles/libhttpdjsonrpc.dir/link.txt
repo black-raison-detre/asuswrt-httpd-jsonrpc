@@ -1,0 +1,2 @@
+/usr/bin/ar qc liblibhttpdjsonrpc.a CMakeFiles/libhttpdjsonrpc.dir/jsonrpc.c.o CMakeFiles/libhttpdjsonrpc.dir/nvram.c.o CMakeFiles/libhttpdjsonrpc.dir/action_script.c.o CMakeFiles/libhttpdjsonrpc.dir/amng_custom.c.o CMakeFiles/libhttpdjsonrpc.dir/addon_config.c.o CMakeFiles/libhttpdjsonrpc.dir/addon_config_json.c.o CMakeFiles/libhttpdjsonrpc.dir/file_ops.c.o CMakeFiles/libhttpdjsonrpc.dir/common_ops.c.o
+/usr/bin/ranlib liblibhttpdjsonrpc.a

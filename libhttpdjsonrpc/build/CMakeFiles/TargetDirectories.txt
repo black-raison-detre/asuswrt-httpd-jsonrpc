@@ -1,0 +1,3 @@
+/home/matt/mine/asuswrt/asuswrt-httpd-jsonrpc/libhttpdjsonrpc/build/CMakeFiles/libhttpdjsonrpc.dir
+/home/matt/mine/asuswrt/asuswrt-httpd-jsonrpc/libhttpdjsonrpc/build/CMakeFiles/edit_cache.dir
+/home/matt/mine/asuswrt/asuswrt-httpd-jsonrpc/libhttpdjsonrpc/build/CMakeFiles/rebuild_cache.dir
